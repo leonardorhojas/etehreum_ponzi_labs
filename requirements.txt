@@ -22,3 +22,6 @@ sklearn
 wordcloud
 torch-geometric
 torch
+progressbar==2.5
+imbalanced-learn==0.7.0
+scikit-learn==0.23.2
